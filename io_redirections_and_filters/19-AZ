@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Sustituir caracteres A por Z y c por e respectivamente" | tr Ac Ze
+tr Ac Ze
