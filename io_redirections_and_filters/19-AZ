@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Sustituir caracteres A por Z y c por e respectivamente" | tr [A] [Z] | tr [c] [e] 
